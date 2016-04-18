@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Not a Sophist]]></title>
-        <description><![CDATA[Not a Sophist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Intellectual Integrity and the Pursuit of Truth]]></title>
+        <description><![CDATA[Intellectual Integrity and the Pursuit of Truth]]></description>
+        <link>https://thegrid.ai/not-a-sophist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 23:39:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 23:42:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/not-a-sophist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Only the educated are free - Epicuris</p>]]></description>
-            <link>undefinedonly-the-educated-are-free-epicuris/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/309931bd-c8dc-4284-b91e-83b434fdd847.jpg">]]></description>
+            <link>https://thegrid.ai/not-a-sophist/only-the-educated-are-free-epicuris/index.html</link>
             <guid isPermaLink="false">76b69ef1-ea11-4ea8-bd5f-125ffe8bb449</guid>
-            <pubDate>Mon, 18 Apr 2016 23:39:31 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 23:41:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
