@@ -1,0 +1,28 @@
+name: Not a Sophist
+favicon: null
+layout_spectrum: 0.4954988395329565
+typography_spectrum: 0.9154349346645176
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.16850645351223648
+  lightness: 0.35747998603619635
+  saturation: 0.1881191344000399
+  rhythmicContrast: 0.7279894738458097
+purpose: []
